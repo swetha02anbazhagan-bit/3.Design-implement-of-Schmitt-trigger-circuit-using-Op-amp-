@@ -1,4 +1,4 @@
- 3.Design-implement-of-Schmitt-trigger-circuit-using-Op-amp
+## 3.Design-implement-of-Schmitt-trigger-circuit-using-Op-amp
 **Aim:**
 To design and implement Schmitt-trigger-circuit-using-Op-amp
 
@@ -51,12 +51,13 @@ R2=39 KΩ
 
   **TABULATION:**
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 11 PM (4)" src="https://github.com/user-attachments/assets/3ac271d0-1373-4727-ad47-b0f38392ddd0" />
+  <img width="780" height="355" alt="image" src="https://github.com/user-attachments/assets/614928bd-9e2b-4112-9177-a5ed677b0d81" />
 
 
 **GRAPH**
 
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 12 PM (1)" src="https://github.com/user-attachments/assets/1f37ac9c-0d85-4b58-bd58-116dcafca32e" />
+<img width="450" height="592" alt="image" src="https://github.com/user-attachments/assets/35c20d9a-e383-4d15-b6d4-bc6a50ababf0" />
+
 
 
 **RESULT:**
