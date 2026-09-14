@@ -1,4 +1,4 @@
-# 3.Design-implement-of-Schmitt-trigger-circuit-using-Op-amp
+ 3.Design-implement-of-Schmitt-trigger-circuit-using-Op-amp
 **Aim:**
 To design and implement Schmitt-trigger-circuit-using-Op-amp
 
@@ -41,18 +41,23 @@ R2=39 KΩ
 
   **CIRCUIT DIAGRAM**
 
+<img width="392" height="232" alt="image" src="https://github.com/user-attachments/assets/d72e843f-c7c4-4f8c-9ddf-414aeb0c4f71" />
+
 
   **MODEL GRAPH:**
 
+<img width="452" height="247" alt="image" src="https://github.com/user-attachments/assets/09e97219-3d8b-4520-bc55-c556140072f8" />
+
 
   **TABULATION:**
- 
 
-**MODEL CALCULATION:**
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 11 PM (4)" src="https://github.com/user-attachments/assets/3ac271d0-1373-4727-ad47-b0f38392ddd0" />
 
+
+**GRAPH**
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 12 PM (1)" src="https://github.com/user-attachments/assets/1f37ac9c-0d85-4b58-bd58-116dcafca32e" />
 
 
 **RESULT:**
 Thus a Schmitt trigger is designed and tested using op-amp IC 741.
- 
-
